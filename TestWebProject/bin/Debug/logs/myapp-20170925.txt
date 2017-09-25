@@ -1,0 +1,180 @@
+2017-09-25 02:02:53.591 +03:00 [Information] Hwllo
+2017-09-25 02:31:52.751 +03:00 [Information] Open Login Page
+2017-09-25 02:52:33.813 +03:00 [Information] Open Login Page
+2017-09-25 02:52:33.986 +03:00 [Information] Clear Login Field
+2017-09-25 02:52:34.551 +03:00 [Information] Login Field SendKeys: mentoringqa2017@gmail.com
+2017-09-25 02:52:34.615 +03:00 [Information] Click: Next Button
+2017-09-25 02:52:37.700 +03:00 [Information] Password Field SendKeys: mentoring2017
+2017-09-25 02:52:37.770 +03:00 [Information] Click: Password Next Button
+2017-09-25 03:03:42.829 +03:00 [Information] --------'Test Login'---------
+2017-09-25 03:03:43.012 +03:00 [Information] Open Login Page
+2017-09-25 03:03:43.125 +03:00 [Information] Clear: Login Field
+2017-09-25 03:03:43.713 +03:00 [Information] SendKeys: mentoringqa2017@gmail.com, in Login Field
+2017-09-25 03:03:43.773 +03:00 [Information] Click: Next Button
+2017-09-25 03:03:45.520 +03:00 [Information] SendKeys: mentoring2017, in Password Field
+2017-09-25 03:03:45.587 +03:00 [Information] Click: Password Next Button
+2017-09-25 03:08:04.716 +03:00 [Information] --------'Test Login'---------
+2017-09-25 03:08:04.904 +03:00 [Information] Open Login Page
+2017-09-25 03:08:05.014 +03:00 [Information] Clear: Login Field
+2017-09-25 03:08:05.577 +03:00 [Information] SendKeys: mentoringqa2017@gmail.com, in Login Field
+2017-09-25 03:08:05.643 +03:00 [Information] Click: Next Button
+2017-09-25 03:08:07.414 +03:00 [Information] SendKeys: mentoring2017, in Password Field
+2017-09-25 03:08:07.481 +03:00 [Information] Click: Password Next Button
+2017-09-25 03:08:32.319 +03:00 [Information] --------Email Presents In Draft Folder--------
+2017-09-25 03:08:32.508 +03:00 [Information] Open Login Page
+2017-09-25 03:08:32.620 +03:00 [Information] Clear: Login Field
+2017-09-25 03:08:33.218 +03:00 [Information] SendKeys: mentoringqa2017@gmail.com, in Login Field
+2017-09-25 03:08:33.279 +03:00 [Information] Click: Next Button
+2017-09-25 03:08:34.975 +03:00 [Information] SendKeys: mentoring2017, in Password Field
+2017-09-25 03:08:35.043 +03:00 [Information] Click: Password Next Button
+2017-09-25 03:08:47.314 +03:00 [Information] Open Drafts Page
+2017-09-25 03:08:47.370 +03:00 [Information] Getting Number Of Drafts
+2017-09-25 03:08:51.159 +03:00 [Information] Open Email Dialog Page
+2017-09-25 03:08:58.295 +03:00 [Information] Open Drafts Page
+2017-09-25 03:08:58.363 +03:00 [Information] Open Drafts Page
+2017-09-25 03:08:58.762 +03:00 [Information] Click: Discard Drafts Button
+2017-09-25 03:20:43.654 +03:00 [Information] --------Email Presents In Draft Folder--------
+2017-09-25 03:20:43.842 +03:00 [Information] Open Login Page
+2017-09-25 03:20:43.953 +03:00 [Information] Clear: Login Field
+2017-09-25 03:20:44.527 +03:00 [Information] SendKeys: mentoringqa2017@gmail.com, in Login Field
+2017-09-25 03:20:44.592 +03:00 [Information] Click: Next Button
+2017-09-25 03:20:46.293 +03:00 [Information] SendKeys: mentoring2017, in Password Field
+2017-09-25 03:20:46.357 +03:00 [Information] Click: Password Next Button
+2017-09-25 03:21:03.246 +03:00 [Information] Navigate to Drafts Page
+2017-09-25 03:21:03.366 +03:00 [Information] Open Drafts Page
+2017-09-25 03:21:03.418 +03:00 [Information] Getting Number Of Drafts
+2017-09-25 03:21:03.502 +03:00 [Information] Click: Compose Button
+2017-09-25 03:21:05.255 +03:00 [Information] Open Email Dialog Page
+2017-09-25 03:21:12.248 +03:00 [Information] Navigate to Drafts Page
+2017-09-25 03:21:12.291 +03:00 [Information] Open Drafts Page
+2017-09-25 03:21:12.368 +03:00 [Information] Open Drafts Page
+2017-09-25 03:21:12.779 +03:00 [Information] Click: Discard Drafts Button
+2017-09-25 03:26:59.806 +03:00 [Information] Open Login Page
+2017-09-25 03:26:59.978 +03:00 [Information] Clear: Login Field
+2017-09-25 03:27:00.548 +03:00 [Information] SendKeys: mentoringqa2017@gmail.com, in Login Field
+2017-09-25 03:27:00.616 +03:00 [Information] Click: Next Button
+2017-09-25 03:27:02.973 +03:00 [Information] SendKeys: mentoring2017, in Password Field
+2017-09-25 03:27:03.037 +03:00 [Information] Click: Password Next Button
+2017-09-25 03:28:00.173 +03:00 [Debug] --------'Test Login'---------
+2017-09-25 03:28:00.365 +03:00 [Information] Open Login Page
+2017-09-25 03:28:00.478 +03:00 [Information] Clear: Login Field
+2017-09-25 03:28:01.041 +03:00 [Information] SendKeys: mentoringqa2017@gmail.com, in Login Field
+2017-09-25 03:28:01.103 +03:00 [Information] Click: Next Button
+2017-09-25 03:28:02.922 +03:00 [Information] SendKeys: mentoring2017, in Password Field
+2017-09-25 03:28:02.986 +03:00 [Information] Click: Password Next Button
+2017-09-25 03:39:42.884 +03:00 [Debug] --------'Test Login'---------
+2017-09-25 03:39:43.192 +03:00 [Information] Open Login Page
+2017-09-25 03:39:43.315 +03:00 [Information] Clear: Login Field
+2017-09-25 03:39:43.925 +03:00 [Information] SendKeys: mentoringqa2017@gmail.com, in Login Field
+2017-09-25 03:39:43.986 +03:00 [Information] Click: Next Button
+2017-09-25 03:39:46.603 +03:00 [Information] SendKeys: mentoring2017, in Password Field
+2017-09-25 03:39:46.691 +03:00 [Information] Click: Password Next Button
+2017-09-25 03:42:21.268 +03:00 [Debug] --------'Test Login'---------
+2017-09-25 03:42:21.495 +03:00 [Information] Open Login Page
+2017-09-25 03:42:21.615 +03:00 [Information] Clear: Login Field
+2017-09-25 03:42:22.222 +03:00 [Information] SendKeys: mentoringqa2017@gmail.com, in Login Field
+2017-09-25 03:42:22.286 +03:00 [Information] Click: Next Button
+2017-09-25 03:42:24.016 +03:00 [Information] SendKeys: mentoring2017, in Password Field
+2017-09-25 03:42:24.091 +03:00 [Information] Click: Password Next Button
+2017-09-25 03:49:18.342 +03:00 [Debug] --------'Test Login'---------
+2017-09-25 03:49:18.543 +03:00 [Information] Open Login Page
+2017-09-25 03:49:18.658 +03:00 [Information] Clear: Login Field
+2017-09-25 03:49:19.259 +03:00 [Information] SendKeys: mentoringqa2017@gmail.com, in Login Field
+2017-09-25 03:49:19.326 +03:00 [Information] Click: Next Button
+2017-09-25 03:49:21.091 +03:00 [Information] SendKeys: mentoring2017, in Password Field
+2017-09-25 03:49:21.153 +03:00 [Information] Click: Password Next Button
+2017-09-25 03:50:59.375 +03:00 [Debug] --------'Test Login'---------
+2017-09-25 03:50:59.588 +03:00 [Information] Open Login Page
+2017-09-25 03:50:59.723 +03:00 [Information] Clear: Login Field
+2017-09-25 03:51:00.336 +03:00 [Information] SendKeys: mentoringqa2017@gmail.com, in Login Field
+2017-09-25 03:51:00.399 +03:00 [Information] Click: Next Button
+2017-09-25 03:51:02.132 +03:00 [Information] SendKeys: mentoring2017, in Password Field
+2017-09-25 03:51:02.206 +03:00 [Information] Click: Password Next Button
+2017-09-25 04:03:04.573 +03:00 [Debug] --------'Test Login'---------
+2017-09-25 04:03:04.803 +03:00 [Information] Open Login Page
+2017-09-25 04:03:04.929 +03:00 [Information] Clear: Login Field
+2017-09-25 04:03:05.528 +03:00 [Information] SendKeys: mentoringqa2017@gmail.com, in Login Field
+2017-09-25 04:03:05.590 +03:00 [Information] Click: Next Button
+2017-09-25 04:03:07.341 +03:00 [Information] SendKeys: mentoring2017, in Password Field
+2017-09-25 04:03:07.413 +03:00 [Information] Click: Password Next Button
+2017-09-25 04:06:32.639 +03:00 [Debug] --------'Test Login'---------
+2017-09-25 04:06:32.839 +03:00 [Information] Open Login Page
+2017-09-25 04:06:32.955 +03:00 [Information] Clear: Login Field
+2017-09-25 04:06:33.529 +03:00 [Information] SendKeys: mentoringqa2017@gmail.com, in Login Field
+2017-09-25 04:06:33.589 +03:00 [Information] Click: Next Button
+2017-09-25 04:06:35.337 +03:00 [Information] SendKeys: mentoring2017, in Password Field
+2017-09-25 04:06:35.411 +03:00 [Information] Click: Password Next Button
+2017-09-25 04:09:18.919 +03:00 [Debug] --------'Test Login'---------
+2017-09-25 04:09:19.126 +03:00 [Information] Open Login Page
+2017-09-25 04:09:19.242 +03:00 [Information] Clear: Login Field
+2017-09-25 04:09:19.866 +03:00 [Information] SendKeys: mentoringqa2017@gmail.com, in Login Field
+2017-09-25 04:09:19.928 +03:00 [Information] Click: Next Button
+2017-09-25 04:09:21.703 +03:00 [Information] SendKeys: mentoring2017, in Password Field
+2017-09-25 04:09:21.769 +03:00 [Information] Click: Password Next Button
+2017-09-25 04:10:46.499 +03:00 [Debug] --------'Test Login'---------
+2017-09-25 04:10:46.708 +03:00 [Information] Open Login Page
+2017-09-25 04:10:46.828 +03:00 [Information] Clear: Login Field
+2017-09-25 04:10:47.423 +03:00 [Information] SendKeys: mentoringqa2017@gmail.com, in Login Field
+2017-09-25 04:10:47.488 +03:00 [Information] Click: Next Button
+2017-09-25 04:10:49.970 +03:00 [Information] SendKeys: mentoring2017, in Password Field
+2017-09-25 04:10:50.050 +03:00 [Information] Click: Password Next Button
+2017-09-25 04:12:22.068 +03:00 [Debug] --------'Test Login'---------
+2017-09-25 04:12:22.276 +03:00 [Information] Open Login Page
+2017-09-25 04:12:22.398 +03:00 [Information] Clear: Login Field
+2017-09-25 04:12:22.991 +03:00 [Information] SendKeys: mentoringqa2017@gmail.com, in Login Field
+2017-09-25 04:12:23.057 +03:00 [Information] Click: Next Button
+2017-09-25 04:12:24.810 +03:00 [Information] SendKeys: mentoring2017, in Password Field
+2017-09-25 04:12:24.903 +03:00 [Information] Click: Password Next Button
+2017-09-25 04:14:00.340 +03:00 [Debug] --------'Test Login'---------
+2017-09-25 04:14:00.553 +03:00 [Information] Open Login Page
+2017-09-25 04:14:00.673 +03:00 [Information] Clear: Login Field
+2017-09-25 04:14:01.262 +03:00 [Information] SendKeys: mentoringqa2017@gmail.com, in Login Field
+2017-09-25 04:14:01.323 +03:00 [Information] Click: Next Button
+2017-09-25 04:14:03.037 +03:00 [Information] SendKeys: mentoring2017, in Password Field
+2017-09-25 04:14:03.111 +03:00 [Information] Click: Password Next Button
+2017-09-25 04:16:55.177 +03:00 [Debug] --------'Test Login'---------
+2017-09-25 04:16:55.392 +03:00 [Information] Open Login Page
+2017-09-25 04:16:55.511 +03:00 [Information] Clear: Login Field
+2017-09-25 04:16:56.132 +03:00 [Information] SendKeys: mentoringqa2017@gmail.com, in Login Field
+2017-09-25 04:16:56.195 +03:00 [Information] Click: Next Button
+2017-09-25 04:16:57.979 +03:00 [Information] SendKeys: mentoring2017, in Password Field
+2017-09-25 04:16:58.055 +03:00 [Information] Click: Password Next Button
+2017-09-25 04:19:35.850 +03:00 [Debug] --------'Test Login'---------
+2017-09-25 04:19:36.053 +03:00 [Information] Open Login Page
+2017-09-25 04:19:36.185 +03:00 [Information] Clear: Login Field
+2017-09-25 04:19:36.781 +03:00 [Information] SendKeys: mentoringqa2017@gmail.com, in Login Field
+2017-09-25 04:19:36.846 +03:00 [Information] Click: Next Button
+2017-09-25 04:19:38.602 +03:00 [Information] SendKeys: mentoring2017, in Password Field
+2017-09-25 04:19:38.693 +03:00 [Information] Click: Password Next Button
+2017-09-25 04:23:05.152 +03:00 [Debug] --------'Test Login'---------
+2017-09-25 04:23:05.345 +03:00 [Information] Open Login Page
+2017-09-25 04:23:05.456 +03:00 [Information] Clear: Login Field
+2017-09-25 04:23:06.032 +03:00 [Information] SendKeys: mentoringqa2017@gmail.com, in Login Field
+2017-09-25 04:23:06.096 +03:00 [Information] Click: Next Button
+2017-09-25 04:23:07.788 +03:00 [Information] SendKeys: mentoring2017, in Password Field
+2017-09-25 04:23:07.849 +03:00 [Information] Click: Password Next Button
+2017-09-25 04:23:13.806 +03:00 [Information] 2017-09-25 04:23:13.png
+2017-09-25 04:25:19.822 +03:00 [Debug] --------'Test Login'---------
+2017-09-25 04:25:20.032 +03:00 [Information] Open Login Page
+2017-09-25 04:25:20.166 +03:00 [Information] Clear: Login Field
+2017-09-25 04:25:20.775 +03:00 [Information] SendKeys: mentoringqa2017@gmail.com, in Login Field
+2017-09-25 04:25:20.841 +03:00 [Information] Click: Next Button
+2017-09-25 04:25:22.598 +03:00 [Information] SendKeys: mentoring2017, in Password Field
+2017-09-25 04:25:22.688 +03:00 [Information] Click: Password Next Button
+2017-09-25 04:25:39.609 +03:00 [Information] 20170925042538.png
+2017-09-25 13:06:37.923 +03:00 [Debug] --------'Test Login'---------
+2017-09-25 13:06:38.021 +03:00 [Information] Open Login Page
+2017-09-25 13:06:38.053 +03:00 [Information] Clear: Login Field
+2017-09-25 13:06:38.311 +03:00 [Information] SendKeys: mentoringqa2017@gmail.com, in Login Field
+2017-09-25 13:06:38.331 +03:00 [Information] Click: Next Button
+2017-09-25 13:06:39.208 +03:00 [Information] SendKeys: mentoring2017, in Password Field
+2017-09-25 13:06:39.227 +03:00 [Information] Click: Password Next Button
+2017-09-25 13:06:45.641 +03:00 [Information] 20170925130645.png
+2017-09-25 13:08:40.731 +03:00 [Debug] --------'Test Login'---------
+2017-09-25 13:08:40.797 +03:00 [Information] Open Login Page
+2017-09-25 13:08:40.832 +03:00 [Information] Clear: Login Field
+2017-09-25 13:08:40.979 +03:00 [Information] SendKeys: mentoringqa2017@gmail.com, in Login Field
+2017-09-25 13:08:40.999 +03:00 [Information] Click: Next Button
+2017-09-25 13:08:41.778 +03:00 [Information] SendKeys: mentoring2017, in Password Field
+2017-09-25 13:08:41.799 +03:00 [Information] Click: Password Next Button
+2017-09-25 13:08:58.069 +03:00 [Information] 20170925130857.png
